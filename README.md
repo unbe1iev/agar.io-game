@@ -6,3 +6,4 @@ HTML/CSS/JS/CANVAS
 
 The HTML <canvas> element is used to draw graphics, on the fly, via JavaScript.
 The <canvas> element is only a container for graphics. You must use JavaScript to actually draw the graphics.
+More about Canvas API: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
